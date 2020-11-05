@@ -1,7 +1,7 @@
 # Projects-in-cpp
 Project Descriptions:
 
-DNA_Sequence_Alignment: 
+DNA_Sequence_Alignment: \n
   Program provides 2 functions: 
   1. Outputs a file containing amino acid counts of data from a FASTA file. FASTA file data is parsed using a state machine process.
   2. Outputs a file containing the Needleman-Wunsch score between 2 files of nucleotides. Needleman-Wunsch algorithm is calculated by utilizing dynamic programming concepts.
