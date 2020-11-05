@@ -8,8 +8,7 @@ DNA_Sequence_Alignment:
     
 Genetic_Algorithm_Project:  
   Functional program implements a genetic algorithm to determine the best tour of LA landmarks, starting and ending at LAX. Initial population was generated based on parameters     given through command line inputs. After the initial population was generated, the fitness of each individual was calculated using the Haversine formula. Selection and crossover 
-  were both done randomly (seeded) throughout each iteration of a new population. Number of iterations was predetermined through command line arguments.  
-  Most of the functions for the genetic algorithms were implmented using lamdas to follow a functional programming style.  
+  were both done randomly (seeded) throughout each iteration of a new population. Number of iterations was predetermined through command line arguments. Most of the functions for   the genetic algorithms were implmented using lamdas to follow a functional programming style.  
     
 RLE_Compression:  
   Simple program to perform a run-length encoding form of compression to run on input files referenced from the command line.  
